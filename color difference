@@ -1,0 +1,4 @@
+color_list1=set(["white","blue","red","black"])
+color_list2=set(["brown","red","pink"])
+a=color_list1.difference(color_list2)
+print("difference is:",a)
